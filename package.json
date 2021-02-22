@@ -1,0 +1,11 @@
+{
+  "name": "lottery-project",
+  "version": "1.0.0",
+  "description": "Simple lottery project in Solidity w/ frontend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Leandro Sosa",
+  "license": "ISC"
+}
